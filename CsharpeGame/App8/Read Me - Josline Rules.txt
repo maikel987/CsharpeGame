@@ -1,0 +1,17 @@
+CopyRighted - Maikel Sitbon
+
+You are a little Bacterie in Josline's Body.. 
+Many cells from her immune defense will appeard in her body. You have to kill her!
+	- when cells are smaller than you, they are green. You can eat them.
+	- when cells are bigger (Red ones) they could eat you to Save Josline.
+
+From Level 2 she will try harder to kill you. She will take pills.
+	- Small pills (Yellow) could feed you, but they are hard to eat.
+	- Big pills (Purple) would track you to death.
+
+Becarefull, level after level her body will get faster, and the pills even more.
+
+from the begining you have 3 lifes.
+if you lost thoses lifes you won't return to level 1, but you will regress to the level bellow.
+You lost life when you are aten, 
+If you are the smaller you will play the same level without loosing life.

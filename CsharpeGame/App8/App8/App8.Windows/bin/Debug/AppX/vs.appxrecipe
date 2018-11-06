@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-34PECHL</Machine>
+    <WindowsUser>Owner</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>40c01914-4928-4399-9ea8-924d45c75f4c</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Owner</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>09D1925AAAE57778AE17637E4320129074FA8A8726EB8B3E6521BB157641A7D3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>40c01914-4928-4399-9ea8-924d45c75f4c_1.0.0.0_neutral__ckpvgz13cfhxc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>40c01914-4928-4399-9ea8-924d45c75f4c_ckpvgz13cfhxc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>40c01914-4928-4399-9ea8-924d45c75f4c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Owner</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-20T10:13:16.117</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\bin\Debug\App8.Windows.exe">
+      <PackagePath>App8.Windows.exe</PackagePath>
+      <Modified>2017-12-20T15:04:34.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\Assets\badBacterium.jpg">
+      <PackagePath>Assets\badBacterium.jpg</PackagePath>
+      <Modified>2017-12-06T08:03:49.308</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\Assets\EqualBacterium.jpg">
+      <PackagePath>Assets\EqualBacterium.jpg</PackagePath>
+      <Modified>2017-12-06T08:07:40.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\Assets\Goodbacterium.jpg">
+      <PackagePath>Assets\Goodbacterium.jpg</PackagePath>
+      <Modified>2017-12-06T08:06:58.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\Assets\OrangePills.jpg">
+      <PackagePath>Assets\OrangePills.jpg</PackagePath>
+      <Modified>2017-12-14T12:53:26.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\Assets\PillsRed.jpg">
+      <PackagePath>Assets\PillsRed.jpg</PackagePath>
+      <Modified>2017-12-14T12:49:32.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\Assets\Player.png">
+      <PackagePath>Assets\Player.png</PackagePath>
+      <Modified>2017-11-29T10:14:20.684</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T19:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\bin\Debug\App8.Windows.xr.xml">
+      <PackagePath>App8.Windows.xr.xml</PackagePath>
+      <Modified>2017-12-19T15:56:46.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2017-11-29T09:28:05.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2017-12-19T15:56:46.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Owner\Documents\Visual Studio 2015\Projects\App8\App8\App8.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2017-12-20T10:13:15.073</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
